@@ -1,4 +1,0 @@
-path: /data/vindr-spicexr   # dataset root dir
-train: train_images/    # train images (relative to 'path') 
-#val: val/raw/images   # val images (relative to 'path') 
-test: test_images/  # test images (optional)
