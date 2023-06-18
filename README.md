@@ -44,7 +44,7 @@ Cấu trúc của data folder sau khi chạy lệnh:
 
 **Bước 4**: Chuyển dữ liệu từ PNG sang JPG (làm nhẹ bộ dữ liệu để dễ dàng huấn luyện)
 
-_Nhóm đã xử lý dữ liệu và up lên drive file data.zip_
+_Nhóm đã xử lý dữ liệu và up lên drive file (data.zip)_
 
 ## Phương pháp
 Trong dự án này, nhóm sử dụng 3 phương pháp (YOLOv5, YOLOv8, YOLO_NAS) là các phiên bản khác nhau của YOLO (You Only Look Once). 3 folder (YOLOv5, YOLOv8, YOLO_NAS) là source code tương ứng với 3 thuật toán đã trình bày.
