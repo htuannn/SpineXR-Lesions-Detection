@@ -65,6 +65,10 @@ Folder YOLOv8 có cấu trúc như sau:
     └── b374367ada898c0a0ec1e1cd724efbb1.jpg
 ```
 
+- Chạy tất cả dòng lệnh (cells) trong file notebook SpineXR_YOLOv8.ipynb (có thể chạy bằng Colab) để train, test và predict. 
+- File yolov8-65.3.pt là file trọng số của mô hình sau khi huấn luyện.
+- Folder inference_results để visualize các kết quả khi dùng mô hình predict trên tập dữ liệu test 
+
 ### YOLO_NAS
 Folder YOLO_NAS có cấu trúc như sau:
 
@@ -78,3 +82,9 @@ Folder YOLO_NAS có cấu trúc như sau:
     ├── ...
     └── b374367ada898c0a0ec1e1cd724efbb1.jpg
 ```
+
+- Chạy tất cả dòng lệnh (cells) trong file notebook SpineXR_YOLO_NAS.ipynb (có thể chạy bằng Colab) để train, test và predict. 
+- File ckpt_best.pth là file trọng số của mô hình sau khi huấn luyện.
+- Folder inference_results để visualize các kết quả khi dùng mô hình predict trên tập dữ liệu test
+
+_Tất cả các kết quả khi chạy code (huấn luyện và kiểm thử) đều được mô tả kỹ càng trong các file notebook (.ipynb). Chi tiết về bài toán, bộ dữ liệu, phương pháp tiếp cận, thực nghiệm, ... được trình bày cụ thể trong file báo cáo DS312_SpineXR_report.pdf_
