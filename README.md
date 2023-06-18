@@ -50,7 +50,7 @@ _Nhóm đã xử lý dữ liệu và up lên drive file data.zip_
 Trong dự án này, nhóm sử dụng 3 phương pháp (YOLOv5, YOLOv8, YOLO_NAS) là các phiên bản khác nhau của YOLO (You Only Look Once). 3 folder (YOLOv5, YOLOv8, YOLO_NAS) là source code tương ứng với 3 thuật toán đã trình bày.
 
 ### YOLOv5
-Folder YOLOv5 chứa source code do nhóm tự cài đặt lại thuật toán YOLOv5. Công việc huấn luyện, kiểm thử và dự đoán đều được thực hiện trực tiếp bằng file notebook SpineXR_YOLOv5.ipynb.
+Folder YOLOv5 chứa source code do nhóm reimplement lại thuật toán YOLOv5. Công việc huấn luyện, kiểm thử và dự đoán đều được thực hiện trực tiếp bằng file notebook SpineXR_YOLOv5.ipynb.
 ### YOLOv8
 Folder YOLOv8 có cấu trúc như sau:
 
