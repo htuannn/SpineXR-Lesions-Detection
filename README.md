@@ -87,4 +87,4 @@ Folder YOLO_NAS có cấu trúc như sau:
 - File ckpt_best.pth là file trọng số của mô hình sau khi huấn luyện.
 - Folder inference_results để visualize các kết quả khi dùng mô hình predict trên tập dữ liệu test
 
-_Tất cả các kết quả khi chạy code (huấn luyện và kiểm thử) đều được mô tả kỹ càng trong các file notebook (.ipynb). Chi tiết về bài toán, bộ dữ liệu, phương pháp tiếp cận, thực nghiệm, ... được trình bày cụ thể trong file báo cáo DS312_SpineXR_report.pdf_
+_Tất cả các kết quả khi chạy code (huấn luyện và kiểm thử) đều được mô tả kỹ càng trong các file notebook (.ipynb). Chi tiết về bài toán, bộ dữ liệu, phương pháp tiếp cận, thực nghiệm, kết luận ... được trình bày cụ thể trong file báo cáo DS312_SpineXR_report.pdf_
