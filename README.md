@@ -88,3 +88,6 @@ Folder YOLO_NAS có cấu trúc như sau:
 - Folder inference_results để visualize các kết quả khi dùng mô hình predict trên tập dữ liệu test
 
 _Tất cả các kết quả khi chạy code (huấn luyện và kiểm thử) đều được mô tả kỹ càng trong các file notebook (.ipynb). Chi tiết về bài toán, bộ dữ liệu, phương pháp tiếp cận, thực nghiệm, kết luận ... được trình bày cụ thể trong file báo cáo DS312_SpineXR_report.pdf_
+
+## Citation 
+```Pham, H. H., Nguyen Trung, H., & Nguyen, H. Q. (2021). VinDr-SpineXR: A large annotated medical image dataset for spinal lesions detection and classification from radiographs (version 1.0.0). PhysioNet. https://doi.org/10.13026/q45h-5h59.```
